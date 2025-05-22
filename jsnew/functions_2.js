@@ -17,4 +17,5 @@ displayMovie(myFavoriteMovie.title, myFavoriteMovie.genre);
 
 let movieInfo = getMovieDetails(myFavoriteMovie);
 console.log(movieInfo);
+// add
 
