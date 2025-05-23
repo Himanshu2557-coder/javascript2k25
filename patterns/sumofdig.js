@@ -8,4 +8,4 @@ function sumofdigits(x){
     }
     return sum
 }
-console.log(sumofdigits(12345))
+console.log(sumofdigits(123456))
