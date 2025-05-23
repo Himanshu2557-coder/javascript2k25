@@ -6,7 +6,9 @@ console.log(Math.round(8.7))
 console.log(Math.min(-5,9,-1))
 console.log(Math.max(-5,999,-1))
 console.log(Math.sqrt(101))
-console.log(Math.random()) // between 0 and 1 
+console.log(Math.random())
+
+ // between 0 and 1 
 
 console.log('-----------------------')
 
