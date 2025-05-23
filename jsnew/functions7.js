@@ -15,3 +15,4 @@ function hello(){
     console.log(`hello`)
 }
 anotherfunction(hello)
+console.log("done")
