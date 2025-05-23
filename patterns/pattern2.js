@@ -10,4 +10,3 @@ function pattern(n){
  }
  pattern(5)
  pattern(3)
- pattern(4)
